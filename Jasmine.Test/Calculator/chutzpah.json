@@ -1,0 +1,21 @@
+﻿{
+  "Framework": "jasmine",
+  "CodeCoverageExcludes": [ "*/config.js" ],
+  "TestHarnessReferenceMode": "AMD",
+  "AMDBasePath": "../../JasmineApp/js/Component",
+  "TestHarnessLocationMode": "Custom",
+  "TestHarnessDirectory": "Tests",
+  "References": [
+    {
+      "Path": "../../JasmineApp/Scripts/require.js"
+    },
+    {
+      "Path": "config.js"
+    }
+  ],
+  "Tests": [
+    {
+      "Path": "Tests"
+    }
+  ]
+}

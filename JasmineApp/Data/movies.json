@@ -1,0 +1,23 @@
+
+[
+    {
+       "id":1,
+       "title":"cine$1",
+       "price":1
+   },
+   {
+       "id":2,
+       "title":"cine$2",
+       "price":2
+   },
+   {
+       "id":3,
+       "title":"cine$3",
+       "price":3
+   },
+   {
+       "id":4,
+       "title":"cine$4",
+       "price":4
+   }
+]   
